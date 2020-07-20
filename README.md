@@ -1,6 +1,6 @@
 # week-12-update-using-R
-Individuals most likely to click on Ads(R)
-(Description)
+  (Description)
+  
 A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process.
 
 # Research Question
